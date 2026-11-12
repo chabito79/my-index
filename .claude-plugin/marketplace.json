@@ -1,0 +1,5 @@
+{
+  "name": "chabito79-my-index",
+  "owner": { "name": "chabito79" },
+  "plugins": [{ "name": "my-index", "source": "./" }]
+}

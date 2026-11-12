@@ -1,0 +1,7 @@
+{
+  "name": "my-index",
+  "version": "0.1.0",
+  "description": "My Index: buscador y lista de tus preguntas de la sesión, con detalle de cada una.",
+  "license": "UNLICENSED",
+  "types": "./types/index.d.ts"
+}
